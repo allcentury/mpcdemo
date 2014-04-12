@@ -1,0 +1,7 @@
+# Logfile created on 2014-04-12 17:19:01 -0400 by logger.rb/44203
+I, [2014-04-12T17:19:01.973247 #9888]  INFO -- : 0:  rack (1.5.2) from /Users/anthonyrossdj/.rvm/gems/ruby-2.1.0/specifications/rack-1.5.2.gemspec
+I, [2014-04-12T17:19:01.973615 #9888]  INFO -- : 0:  rack-protection (1.5.2) from /Users/anthonyrossdj/.rvm/gems/ruby-2.1.0/specifications/rack-protection-1.5.2.gemspec
+I, [2014-04-12T17:19:01.973872 #9888]  INFO -- : 0:  shotgun (0.9) from /Users/anthonyrossdj/.rvm/gems/ruby-2.1.0/specifications/shotgun-0.9.gemspec
+I, [2014-04-12T17:19:01.974134 #9888]  INFO -- : 0:  tilt (1.4.1) from /Users/anthonyrossdj/.rvm/gems/ruby-2.1.0/specifications/tilt-1.4.1.gemspec
+I, [2014-04-12T17:19:01.974390 #9888]  INFO -- : 0:  sinatra (1.4.4) from /Users/anthonyrossdj/.rvm/gems/ruby-2.1.0/specifications/sinatra-1.4.4.gemspec
+I, [2014-04-12T17:19:01.974630 #9888]  INFO -- : 0:  bundler (1.5.1) from /Users/anthonyrossdj/.rvm/gems/ruby-2.1.0@global/specifications/bundler-1.5.1.gemspec
