@@ -3,9 +3,25 @@ $( document ).ready(function(){
 // Click events
   (function() {
 
-    var mySamples = ['kick', 'snare', 'clap', 'clav', 'cowbell', 'crash', 'hat', 'snap', 'scratch', 'string', 'synth', 'tape', 'whip', 'whistle', 'yeah_vox', 'synth_stab'];
+    var mySamples = [
+      'kick',
+      'snare',
+      'clap',
+      'clav',
+      'cowbell',
+      'crash',
+      'hat',
+      'snap',
+      'scratch',
+      'string',
+      'synth',
+      'tape',
+      'whip',
+      'whistle',
+      'yeah_vox',
+      'synth_stab'
+      ];
     var arrayLength = mySamples.length;
-
     for (var s in mySamples) {
       var sector = mySamples[s];
       (function(sec){
