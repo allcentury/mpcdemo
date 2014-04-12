@@ -68,25 +68,6 @@ $( document ).ready(function(){
           return false;
         }
       }
-
-          // if(event.which == 65)
-          //   {
-          //     var audio = $('<audio />', {
-          //       autoPlay : 'autoplay'
-          //     });
-          //     console.log('I HIT A');
-          //     addSource(audio, 'sounds/kick.mp3');
-          //     return false;
-          //   }
-          // else if(event.which == 66)
-          // {
-          //   var audio = $('<audio />', {
-          //     autoPlay : 'autoplay'
-          //   });
-          //   console.log('I HIT B');
-          //   addSource(audio, 'sounds/snare.mp3');
-          //   return false;
-          // }
         });
 
     function addSource(elem, path) {
