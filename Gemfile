@@ -1,4 +1,4 @@
 source 'https://rubygems.org'
 
-require 'sinatra'
-require 'shotgun'
+gem 'sinatra'
+gem 'shotgun'
